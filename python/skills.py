@@ -5,3 +5,4 @@ results =''
 
 results = num1 * num2
 print(results)
+#printing the results
